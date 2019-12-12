@@ -20,7 +20,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity implements ListaPokemonAdapter.ItemClickListener{
 
-    private static final String TAG = " Prueba GitH - POKEMONAPPDEX";
+    private static final String TAG = "POKEMONAPPDEX";
 
 
     private RecyclerView recyclerView;
